@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1663780620 source:c:\users\a\documents\cyberdefense practice\c\atmsys\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
